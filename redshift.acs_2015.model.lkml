@@ -1,3 +1,3 @@
-connection: "redshift-datablocks"
+connection: "redshift-demographics"
 
 include: "redshift.explore"
